@@ -1,9 +1,5 @@
 # Drive-Through Restaurant P2P
 
-## Prerequisites
-
-* Clone this repository
-
 ## How to run
 Open two terminals:
 
