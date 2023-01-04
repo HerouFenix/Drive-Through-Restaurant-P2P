@@ -23,17 +23,6 @@ We created a run script in bash that executes 20 clients, so that is another way
 $ ./run.sh
 ```
 
-## Git Upstream
-
-Keep your fork sync with the upstream
-
-```console
-$ git remote add upstream git@github.com:mariolpantunes/load-balancer.git
-$ git fetch upstream
-$ git checkout master
-$ git merge upstream/master
-```
-
 ## Authors
 
 * **Vasco Ramos (nmec  88931)** - [BlasphemyCoder](https://github.com/BlasphemyCoder)
